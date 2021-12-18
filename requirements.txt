@@ -1,0 +1,6 @@
+wheel # for building dependencies
+setuptools==49.2.1
+flwr # Federated Learning Framework
+torch # ML library
+torchvision # ML vision library
+typing # Typing
